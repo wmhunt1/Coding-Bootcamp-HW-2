@@ -7,6 +7,7 @@ header {
 
   header h1 {
       color: #f2f2f2;
+      display: block;
   }
 /* Style the navbar */
 
