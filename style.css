@@ -12,6 +12,7 @@ header {
       color: #f2f2f2;
       display: block;
       text-align: center;
+      font-size: 4vw;
   }
 /* Style the navbar */
 
@@ -20,6 +21,7 @@ nav {
     background-color: blue;
     width: 100%;
     height: auto;
+    font-size: 1vw;
 }
   
   /* Navbar links */
@@ -36,7 +38,28 @@ nav {
   {
     width: fit-content
   }
+  section h1
+  {
+    font-size: 3vw;
+  }
+  section h5
+  {
+    font-size: 2vw;
+    text-align: center
+  }
   article
   {
     width: fit-content;
+  }
+  article h2
+  {
+    font-size: 2vw;
+  }
+  article h4
+  {
+    font-size: 2vw;
+  }
+  article p
+  {
+    font-size: 1vw;
   }
